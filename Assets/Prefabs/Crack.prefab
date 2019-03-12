@@ -24,7 +24,7 @@ GameObject:
   - component: {fileID: 23397870242213274}
   m_Layer: 0
   m_Name: Crack
-  m_TagString: Untagged
+  m_TagString: Sliver
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Hand
   - Table
+  - Sliver
+  - Blood
   layers:
   - Default
   - TransparentFX
